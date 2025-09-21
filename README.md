@@ -36,6 +36,8 @@ It supports both **interactive mode** (Q&A in terminal) and **CLI options** for 
 
 ### 1. Clone the project
 ```bash
+sudo apt-get update
+sudo apt upgrade
 git clone https://github.com/Aliazadi-1776/playwright-api-response-logger.git
 cd playwright-api-response-logger
 ```
