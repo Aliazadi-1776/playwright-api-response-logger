@@ -1,0 +1,19 @@
+{
+  "name": "playwright-api-logger",
+  "version": "0.1.0",
+  "description": "Universal Playwright API Response Logger",
+  "main": "lib/cli.js",
+  "bin": {
+    "api-logger": "./bin/api-logger"
+  },
+  "scripts": {
+    "start": "node lib/cli.js"
+  },
+  "author": "َAli-azadi(the-wrench)",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.47.0",
+    "commander": "^12.1.0",
+    "inquirer": "^8.2.5"
+  }
+}
