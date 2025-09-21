@@ -13,6 +13,11 @@
   ██║░░██║██║░░░░░██║░░░░░░██████╔╝╚█████╔╝██║░░██║██║░░██║██║░░░░░███████╗██║░░██║
   ╚═╝░░╚═╝╚═╝░░░░░╚═╝░░░░░░╚═════╝░░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚══════╝╚═╝░░╚═╝
 ```
+## 📸 Demo
+
+![Demo](./assets/Wrenchapi.gif)
+
+---
 
 # 🎭 Playwright API Logger
 
@@ -105,6 +110,12 @@ playwright-api-logger/
 ├── README.md
 └── .gitignore
 ```
+---
+
+## 🛠️ Roadmap
+- [ ] Add export to CSV
+- [ ] Add config file support
+- [ ] Add Docker support
 
 ---
 
@@ -113,6 +124,7 @@ playwright-api-logger/
 
 ---
 
-## 👨‍💻 Contributing
-Pull Requests are welcome!  
-Before submitting, please make sure your code is linted and tests are passing.
+## 🤝 Contributing
+Contributions, issues and feature requests are welcome!  
+Feel free to open an issue or submit a pull request.
+
