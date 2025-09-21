@@ -56,7 +56,11 @@ npm link
 > ```bash
 > sudo npm link
 > ```
-
+### 🔧 Make the CLI Executable
+Before linking, ensure the CLI script is executable:
+```bash
+chmod +x bin/api-logger
+```
 ---
 
 ## 🖥️ Usage
