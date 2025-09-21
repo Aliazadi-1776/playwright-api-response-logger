@@ -111,9 +111,12 @@ playwright-api-logger/
 ---
 
 ## 🛠️ Roadmap
-- [ ] Add export to CSV
-- [ ] Add config file support
-- [ ] Add Docker support
+- [x] CLI interactive mode
+- [x] CLI options (url, filter, headless, timeout)
+- [ ] Export to CSV
+- [ ] Config file support
+- [ ] Docker support
+
 
 ---
 
